@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**silos-sk/silos-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shaira, a student at Brigham Young University-Idaho interested in Front-End Web Development. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently completeing my Bachelors in Software Development (est. April 2025)
+- My goals are to transition from a healthcare background into a career in tech, specifically in Web development
+
+## Technologies and Tools
+
+- Proficient in: HTML5, CSS3
+- Skills: Python, JavaScript, React, PHP
+
+## Let's Connect!
+
+- Here is my [LinkedIn](linkedin.com/in/shaira-silos)
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
