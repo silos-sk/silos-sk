@@ -10,8 +10,8 @@ I'm Shaira, a student at Brigham Young University-Idaho interested in Front-End 
 ## Technologies and Tools
 
 - Proficient in: HTML5, CSS3
-- Skills: Python, JavaScript, React, PHP
-
+- Skills: Python, JavaScript, React, PHP, mySQL, NodeJS, Adobe Photoshop, Illustrator, InDesign
+  
 ## Let's Connect!
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaira-silos) 
