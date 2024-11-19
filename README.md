@@ -16,5 +16,7 @@ I'm Shaira, a student at Brigham Young University-Idaho interested in Front-End 
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaira-silos) 
 
+Check out my [Portfolio](https://silos-sk.github.io/portfolio/)
+
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
