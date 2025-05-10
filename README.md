@@ -18,5 +18,7 @@ I'm Shaira, a student at Brigham Young University-Idaho (est. October 2025 gradu
 
 Check out my [Portfolio](https://silos-sk.github.io/portfolio/)
 
+My latest team project: https://github.com/kellyannclark/quickquote
+
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
