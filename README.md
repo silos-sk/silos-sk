@@ -1,24 +1,45 @@
-## Hi there 👋
+## 👋 Hi there, I'm Shaira!
 
-I'm Shaira, a graduating student at Brigham Young University-Idaho interested in Front-End Web Development. Welcome to my GitHub profile!
+I'm a **Software Development** student at **Brigham Young University-Idaho**, passionate about **Front-End Web Development**. I’m transitioning from a healthcare background and eager to leverage my skills in **coding** and **design** to create impactful digital experiences. Welcome to my GitHub profile — let's build something amazing together!
 
-## About Me
+### 🎓 **Currently Pursuing**:
 
-- I'm currently completeing my Bachelors in Software Development (est. October 2025)
-- My goals are to transition from a healthcare background into a career in tech, specifically in Web development
+* **Bachelor's in Software Development** (Expected Graduation: October 2025)
+* Focus on Front-End Development, UI/UX Design, and **JavaScript Frameworks**
 
-## Technologies and Tools
+### 💼 **Career Transition**:
 
-- Proficient in: HTML5, CSS3
-- Skills: Python, JavaScript, React, PHP, mySQL, NodeJS, Adobe Photoshop, Illustrator, InDesign
-  
-## Let's Connect!
+* After years in healthcare, I'm shifting my career focus to tech, specifically in **Web Development**. I'm excited about creating intuitive, user-friendly websites and applications.
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaira-silos) 
+---
 
-Check out my [Portfolio](https://silos-sk.github.io/portfolio/)
+### 🛠️ **Skills & Technologies**:
 
-My latest team project: https://github.com/kellyannclark/quickquote
+* **Languages**: HTML5, CSS3, JavaScript, Python, PHP, .NET, C#, SQL
+* **Frameworks & Libraries**: React, Node.js, Express.js
+* **Databases**: MySQL, MongoDB, Firebase
+* **Design**: Adobe Photoshop, Illustrator, InDesign
+* **Version Control**: Git, GitHub
+* **Other Tools**: Visual Studio Code, Figma, Postman
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+---
 
+### 🚀 **Highlighted Projects**:
+
+* **[Portfolio Website](https://silos-sk.github.io/portfolio/)**: A showcase of my web development projects, including responsive design and interactive features built with HTML, CSS, and JavaScript.
+* **[QuickQuote - Team Project](https://github.com/kellyannclark/quickquote)**: A collaborative project where we built a dynamic quote generator using React. Check out the code and the live app.
+
+---
+
+### 🌐 **Let's Connect!**
+
+I'm always open to **new opportunities**, collaborations, and **learning** from others in the tech community.
+
+* 📬 [LinkedIn](https://linkedin.com/in/shaira-silos)
+* 📂 Explore my repositories below and feel free to reach out — let's talk about how we can innovate and solve problems with code!
+
+---
+
+### ✨ **Fun Fact**:
+
+In my free time, you’ll find me experimenting with new technologies, and staying up to date on the latest web trends.
