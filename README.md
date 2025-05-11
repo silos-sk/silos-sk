@@ -27,7 +27,8 @@ I'm a **Software Development** student at **Brigham Young University-Idaho**, pa
 ### 🚀 **Highlighted Projects**:
 
 * **[Portfolio Website](https://silos-sk.github.io/portfolio/)**: A showcase of my web development projects, including responsive design and interactive features built with HTML, CSS, and JavaScript.
-* **[QuickQuote - Team Project](https://github.com/kellyannclark/quickquote)**: A collaborative project where we built a dynamic quote generator using React. Check out the code and the live app.
+* **[QuickQuote - Team Project](https://github.com/kellyannclark/quickquote)**: A collaborative project where we built a dynamic quote generator using React. Check out the code and the live app. **[GROUP DEMO](https://www.youtube.com/watch?v=NgJ4p4K4ccs)**
+
 
 ---
 
