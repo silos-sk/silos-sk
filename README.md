@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Shaira, a student at Brigham Young University-Idaho (est. October 2025 graduate) interested in Front-End Web Development. Welcome to my GitHub profile!
+I'm Shaira, a graduating student at Brigham Young University-Idaho interested in Front-End Web Development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently completeing my Bachelors in Software Development (est. April 2025)
+- I'm currently completeing my Bachelors in Software Development (est. October 2025)
 - My goals are to transition from a healthcare background into a career in tech, specifically in Web development
 
 ## Technologies and Tools
