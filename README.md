@@ -15,7 +15,7 @@ I'm a **Software Development** student at **Brigham Young University-Idaho**, pa
 
 ### 🛠️ **Skills & Technologies**:
 
-* **Languages**: HTML5, CSS3, JavaScript, Python, PHP, .NET, C#, SQL
+* **Languages**: HTML5, CSS3, JavaScript, TypeScript,Python, PHP, .NET, C#, SQL
 * **Frameworks & Libraries**: React, Node.js, Express.js
 * **Databases**: MySQL, MongoDB, Firebase
 * **Design**: Adobe Photoshop, Illustrator, InDesign
